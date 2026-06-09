@@ -1,3 +1,20 @@
+<!--
+HOW TO USE THIS FILE
+All your project repos are now private, so your public profile shows nothing by default.
+This README is the one thing a visitor (or recruiter) will see, so it has to carry the whole story.
+
+1. Create ONE public repository named exactly: joyfuladam  (same as your username).
+   GitHub will say "you found a secret!" and offer a special profile README.
+   This repo holds only the bio below. No code, no secrets. It is safe to be public.
+2. Add a file named README.md and paste everything BELOW the line marked "=== PASTE BELOW ===".
+3. That is it. There are no public project repos to pin, and nothing else to audit.
+   When someone wants to see actual code, grant them temporary read access to the relevant private repo.
+4. Optional, later: if you ever want a public showcase, make ONE sanitized repo (screenshots,
+   architecture notes, no secrets/data) rather than opening a real product.
+-->
+
+=== PASTE BELOW ===
+
 # Adam Farrell
 
 **Director of Technology Operations and Strategy. AI-assisted builder.**
@@ -8,12 +25,12 @@ Mars, PA · [adamfarrell.com](https://adamfarrell.com) · [LinkedIn](https://www
 
 ## What I build
 
-Most of my work lives in private repos (client data, secrets, or products I am commercializing). I am glad to walk through any of them or grant read access on request. A selection:
+All of my project repos are private (client data, secrets, or products I am commercializing). I am glad to walk through any of them or grant read access on request. A selection:
 
 ### Live captioning for accessibility
-*Private. Productizing as [Lingostream](https://lingostream.app).*
+*Private.*
 Real-time speech-to-text on screen for hearing-impaired audiences across a multi-campus organization. I self-sourced the need, built the system, and took it to daily live use. Shipped on Azure Speech over a Python/FastAPI and WebSocket stack, with a multi-tenant monitoring and control service (PostgreSQL, REST API, device heartbeats, remote commands) to run a fleet of caption devices across sites. AssemblyAI and Deepgram are on the roadmap.
-Related public R&D: [`voskcaption`](https://github.com/joyfuladam/voskcaption), an experiment with offline Vosk recognition. I also prototyped on-device recognition with NVIDIA Parakeet (NeMo) to test lower-cost, non-cloud options.
+As R&D, I also prototyped on-device recognition (offline Vosk, and NVIDIA Parakeet via NeMo) to test lower-cost, non-cloud options.
 
 ### Farrell Family Farms
 *Private. Live at [farrellfamilyfarm.com](https://farrellfamilyfarm.com).*
@@ -24,7 +41,7 @@ A full e-commerce platform I built end to end for my flower farm: Next.js and Ty
 A rights-management system for the record label I founded: Next.js, Prisma, and PostgreSQL, handling publishing and master royalty splits, sequential split locking, role-based revenue rules, SignWell e-signature contracts, and dashboards.
 
 ### Automation and agents
-AI agents and automations for research, documentation, workflow, and (yes) surfacing job postings matched to my experience. I run a few open templates, including forks of [`clawdbot`](https://github.com/joyfuladam/clawdbot) and [`paperclip-railway`](https://github.com/joyfuladam/paperclip-railway).
+AI agents, harnesses, and automations for research, documentation, workflow, and (yes) surfacing job postings matched to my experience. Hermes, OpenClaw, Cursor, Claude, Grok, OpenAI, Paperclip, Copilot Studio, local models via Ollama... all the fun stuff.
 
 ## How I work
 
