@@ -24,7 +24,7 @@ A full e-commerce platform I built end to end for my flower farm: Next.js and Ty
 A rights-management system for the record label I founded: Next.js, Prisma, and PostgreSQL, handling publishing and master royalty splits, sequential split locking, role-based revenue rules, SignWell e-signature contracts, and dashboards.
 
 ### Automation and agents
-AI agents and automations for research, documentation, workflow, and (yes) surfacing job postings matched to my experience. I run a few open templates, including forks of [`clawdbot`](https://github.com/joyfuladam/clawdbot) and [`paperclip-railway`](https://github.com/joyfuladam/paperclip-railway).
+AI agents, harnesses and automations for research, documentation, workflow, and (yes) surfacing job postings matched to my experience. Hermes, Open Claw, Cursor, Claude, Grok, Open Ai, Paperclip, Copilot Studio, Ollama local models...all the fun stuff. 
 
 ## How I work
 
