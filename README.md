@@ -11,7 +11,7 @@ Mars, PA · [adamfarrell.com](https://adamfarrell.com) · [LinkedIn](https://www
 Most of my work lives in private repos (client data, secrets, or products I am commercializing). I am glad to walk through any of them or grant read access on request. A selection:
 
 ### Live captioning for accessibility
-*Private. Productizing as [Lingostream](https://lingostream.app). Site is mocked up only.*
+*Private. Productizing as [Lingostream](https://lingostream.app).*
 Real-time speech-to-text on screen for hearing-impaired audiences across a multi-campus organization. I self-sourced the need, built the system, and took it to daily live use. Shipped on Azure Speech over a Python/FastAPI and WebSocket stack, with a multi-tenant monitoring and control service (PostgreSQL, REST API, device heartbeats, remote commands) to run a fleet of caption devices across sites. AssemblyAI and Deepgram are on the roadmap.
 Related public R&D: [`voskcaption`](https://github.com/joyfuladam/voskcaption), an experiment with offline Vosk recognition. I also prototyped on-device recognition with NVIDIA Parakeet (NeMo) to test lower-cost, non-cloud options.
 
@@ -24,7 +24,7 @@ A full e-commerce platform I built end to end for my flower farm: Next.js and Ty
 A rights-management system for the record label I founded: Next.js, Prisma, and PostgreSQL, handling publishing and master royalty splits, sequential split locking, role-based revenue rules, SignWell e-signature contracts, and dashboards.
 
 ### Automation and agents
-AI agents, harnesses and automations for research, documentation, workflow, and (yes) surfacing job postings matched to my experience. Hermes, Open Claw, Cursor, Claude, Grok, Open Ai, Paperclip, Copilot Studio, Ollama local models...all the fun stuff. 
+AI agents and automations for research, documentation, workflow, and (yes) surfacing job postings matched to my experience. I run a few open templates, including forks of [`clawdbot`](https://github.com/joyfuladam/clawdbot) and [`paperclip-railway`](https://github.com/joyfuladam/paperclip-railway).
 
 ## How I work
 
