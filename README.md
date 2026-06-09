@@ -1,16 +1,3 @@
-<!--
-HOW TO USE THIS FILE
-1. Create a new public repository named exactly: joyfuladam  (same as your username).
-   GitHub will say "you found a secret!" and offer a special profile README.
-2. Add a file named README.md and paste everything BELOW the line marked "=== PASTE BELOW ===".
-3. Before publishing, check your currently-public repos (re, voskcaption, airtableebayconnect)
-   for any secrets, keys, or data you did not mean to expose. Add short descriptions to the ones
-   you want to show, and Pin your best 4-6 on your profile.
-4. Replace any link you do not want public. The captioning product code stays PRIVATE on purpose.
--->
-
-=== PASTE BELOW ===
-
 # Adam Farrell
 
 **Director of Technology Operations and Strategy. AI-assisted builder.**
