@@ -1,20 +1,3 @@
-<!--
-HOW TO USE THIS FILE
-All your project repos are now private, so your public profile shows nothing by default.
-This README is the one thing a visitor (or recruiter) will see, so it has to carry the whole story.
-
-1. Create ONE public repository named exactly: joyfuladam  (same as your username).
-   GitHub will say "you found a secret!" and offer a special profile README.
-   This repo holds only the bio below. No code, no secrets. It is safe to be public.
-2. Add a file named README.md and paste everything BELOW the line marked "=== PASTE BELOW ===".
-3. That is it. There are no public project repos to pin, and nothing else to audit.
-   When someone wants to see actual code, grant them temporary read access to the relevant private repo.
-4. Optional, later: if you ever want a public showcase, make ONE sanitized repo (screenshots,
-   architecture notes, no secrets/data) rather than opening a real product.
--->
-
-=== PASTE BELOW ===
-
 # Adam Farrell
 
 **Director of Technology Operations and Strategy. AI-assisted builder.**
